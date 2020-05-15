@@ -1,5 +1,5 @@
 {
-  "name": "micro-app",
+  "name": "micro",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "echarts": "^4.7.0",
+    "iview": "^3.5.4",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
